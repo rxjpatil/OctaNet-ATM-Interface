@@ -1,0 +1,63 @@
+# OctaNet ATM Interface
+
+Welcome to the OctaNet ATM Interface project! This project aims to provide a user-friendly interface for basic ATM functionalities such as checking bank balance, withdrawing money, and depositing money. It is designed as part of the Python development internship at OctaNet.
+
+## Prerequisites
+
+Before you begin, ensure that you have the following installed:
+
+- [Python](https://www.python.org/downloads/) (version 3.x recommended)
+- [Visual Studio Code (VS Code)](https://code.visualstudio.com/download)
+
+## Getting Started
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/your-username/OctaNet-ATM-Interface.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd OctaNet-ATM-Interface
+    ```
+
+3. Open the project in Visual Studio Code:
+
+    ```bash
+    code .
+    ```
+
+4. In VS Code, locate the `ATM.py` file and the `Card_Holder_for_ATM.py` file.
+
+5. Run the `ATM.py` file to start the ATM Interface:
+
+    ```bash
+    python ATM.py
+    ```
+
+## Usage
+
+- Upon running the `ATM.py` file, you will be prompted to enter your card details using the `Card_Holder_for_ATM.py` file.
+
+- Once authenticated, the ATM Interface will provide options to check your bank balance, withdraw money, and deposit money.
+
+- Follow the on-screen instructions to perform the desired operation.
+
+## Contributing
+
+If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive commit messages.
+4. Push your changes to your fork.
+5. Submit a pull request.
+
+## Issues
+
+If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/rxjpatil/OctaNet-ATM-Interface/issues).
+
+
+Thank you for contributing to the OctaNet ATM Interface project!
